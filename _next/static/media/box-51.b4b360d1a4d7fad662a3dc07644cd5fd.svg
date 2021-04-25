@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="626" height="463" viewBox="0 0 626 463">
+  <defs>
+    <filter id="矩形_28" x="0" y="0" width="626" height="463" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.146" x2="1" y2="0.827" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5a68d2"/>
+      <stop offset="1" stop-color="#b146d7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3dc4ed"/>
+      <stop offset="1" stop-color="#2976ba"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f89e36"/>
+      <stop offset="1" stop-color="#ffab4a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e21f79"/>
+      <stop offset="1" stop-color="#a019ba"/>
+    </linearGradient>
+  </defs>
+  <g id="组件_8_1" data-name="组件 8 – 1" transform="translate(18 14)">
+    <g transform="matrix(1, 0, 0, 1, -18, -14)" filter="url(#矩形_28)">
+      <rect id="矩形_28-2" data-name="矩形 28" width="590" height="427" rx="10" transform="translate(18 14)" fill="#414142"/>
+    </g>
+    <text id="Secure_atomic_swap" data-name="Secure atomic swap" transform="translate(30 70)" fill="#fff" font-size="42" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Secure Atomic Swap</tspan></text>
+    <g id="组_36" data-name="组 36" transform="translate(-1023 -2738.766)">
+      <ellipse id="椭圆_14" data-name="椭圆 14" cx="74.344" cy="171.746" rx="74.344" ry="171.746" transform="matrix(0.602, -0.799, 0.799, 0.602, 1193.788, 2959.048)" fill="none" stroke="#e1e1e1" stroke-miterlimit="10" stroke-width="6"/>
+      <ellipse id="椭圆_15" data-name="椭圆 15" cx="139.769" cy="134.937" rx="139.769" ry="134.937" transform="translate(1203.455 2930.861) rotate(-28)" fill="none" stroke="#e1e1e1" stroke-miterlimit="10" stroke-width="6"/>
+      <circle id="椭圆_11" data-name="椭圆 11" cx="78.054" cy="78.054" r="78.054" transform="translate(1313.659 2906.331)" fill="url(#linear-gradient)"/>
+      <circle id="椭圆_12" data-name="椭圆 12" cx="25.428" cy="25.428" r="25.428" transform="matrix(0.966, -0.259, 0.259, 0.966, 1476.767, 2888.351)" fill="url(#linear-gradient-2)"/>
+      <circle id="椭圆_13" data-name="椭圆 13" cx="25.428" cy="25.428" r="25.428" transform="matrix(0.996, 0.087, -0.087, 0.996, 1242.406, 2975.486)" fill="url(#linear-gradient-3)"/>
+      <circle id="椭圆_16" data-name="椭圆 16" cx="19" cy="19" r="19" transform="translate(1053 3107.766)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="279.974" height="291.949" viewBox="0 0 279.974 291.949">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.052" x2="1" y2="0.706" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3dc4ed"/>
+      <stop offset="1" stop-color="#2976ba"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f89e36"/>
+      <stop offset="1" stop-color="#ffab4a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.383" y1="0.434" x2="0.177" y2="0.801" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1" y1="0.629" x2="0" y2="0.329" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e21f79"/>
+      <stop offset="1" stop-color="#a019ba"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5a68d2"/>
+      <stop offset="1" stop-color="#b146d7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.173" y1="0.173" x2="0.96" y2="0.775" xlink:href="#linear-gradient-4"/>
+  </defs>
+  <g id="组_37" data-name="组 37" transform="translate(125.716 41.914) rotate(-14)">
+    <path id="路径_51" data-name="路径 51" d="M-49.544,56.742-96.55,29.623-107.4,35.77v66.893l57.854,33.266L8.31,102.663V35.77L-2.538,29.623Z" transform="translate(50.486 107.571)" fill="url(#linear-gradient)"/>
+    <path id="路径_52" data-name="路径 52" d="M-22.849,45.164-62.623,22.023-102.4,45.164l39.774,23.142Z" transform="translate(63.565 87.691)" fill="url(#linear-gradient-2)"/>
+    <path id="路径_53" data-name="路径 53" d="M-10.99,21.766-68.844-11.5-126.7,21.766V88.659l57.854,33.266,8.316-4.7V60.817L-10.99,31.89Z" transform="translate(0)" fill="url(#linear-gradient-3)"/>
+    <path id="路径_54" data-name="路径 54" d="M-64.092,50.991V2.9L-106.4,27.126V75.579Z" transform="translate(53.102 37.668)" fill="url(#linear-gradient-4)"/>
+    <path id="路径_55" data-name="路径 55" d="M-88.1,50.991l42.305,24.226V27.126L-88.1,2.9Z" transform="translate(100.972 37.668)" fill="url(#linear-gradient-5)"/>
+    <path id="路径_56" data-name="路径 56" d="M-88.1,21.866V31.99L-38.56,60.555v56.407l8.316,4.7L27.61,88.4V21.866L-30.244-11.4Z" transform="translate(100.972 0.262)" fill="url(#linear-gradient-6)"/>
+  </g>
+</svg>

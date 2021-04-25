@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1416" height="637" viewBox="0 0 1416 637">
+  <g id="组_34" data-name="组 34" transform="translate(-236.258 -1167.813)">
+    <rect id="矩形_23" data-name="矩形 23" width="695" height="424" rx="10" transform="translate(715.758 1379.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="10"/>
+    <rect id="矩形_12" data-name="矩形 12" width="655" height="384" rx="10" transform="translate(735.758 1399.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <g id="矩形_15" data-name="矩形 15" transform="translate(776.258 1428.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_19" data-name="矩形 19" transform="translate(776.258 1560.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_21" data-name="矩形 21" transform="translate(776.258 1691.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_22" data-name="矩形 22" transform="translate(1053.258 1691.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_18" data-name="矩形 18" transform="translate(1053.258 1428.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_20" data-name="矩形 20" transform="translate(1053.258 1560.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <text id="Dev" transform="translate(1578.258 1621.813)" fill="#fff" font-size="43" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Dev</tspan></text>
+    <text id="Token_1" data-name="Token 1" transform="translate(892.258 1471.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-61.4" y="0">Token 1</tspan></text>
+    <text id="LP_Token_1" data-name="LP Token 1" transform="translate(892.258 1604.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-84.885" y="0">LP Token 1</tspan></text>
+    <text id="Pair_1" data-name="Pair 1" transform="translate(892.258 1734.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-43.875" y="0">Pair 1</tspan></text>
+    <text id="Pair_2" data-name="Pair 2" transform="translate(1167.258 1735.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-43.875" y="0">Pair 2</tspan></text>
+    <text id="Token_2" data-name="Token 2" transform="translate(1167.258 1471.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-61.4" y="0">Token 2</tspan></text>
+    <text id="LP_Token_2" data-name="LP Token 2" transform="translate(1166.258 1604.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-84.885" y="0">LP Token 2</tspan></text>
+    <g id="组_23" data-name="组 23" transform="translate(1000.401 1246.026)">
+      <text id="Swap" transform="translate(126.856 65.787)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Swap</tspan></text>
+      <text id="Add_Liquid" data-name="Add Liquid" transform="translate(-0.144 22.787)" fill="#fff" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="26">Add </tspan><tspan x="0" y="55">Liquid</tspan></text>
+      <g id="组_22" data-name="组 22" transform="translate(78.385 0)">
+        <path id="路径_38" data-name="路径 38" d="M1867.5,61.8v110l-17-13" transform="translate(-1850.529 -61.517)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+        <path id="路径_39" data-name="路径 39" d="M1878.459,171.659v-109l16,11" transform="translate(-1846.489 -61.372)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      </g>
+    </g>
+    <g id="组_25" data-name="组 25" transform="translate(490.037 1536.108)">
+      <text id="Withdraw" transform="translate(42.22 107.705)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Withdraw</tspan></text>
+      <text id="Deposit" transform="translate(52.22 25.705)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Deposit</tspan></text>
+      <g id="组_24" data-name="组 24" transform="translate(0 33.757)">
+        <path id="路径_40" data-name="路径 40" d="M1293.9,374.248h201l-16-16" transform="translate(-1294.182 -357.8)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+        <path id="路径_41" data-name="路径 41" d="M1494.9,384.352h-201l17,16" transform="translate(-1294.182 -353.904)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      </g>
+    </g>
+    <g id="组_27" data-name="组 27" transform="translate(1023.287 1170.502)">
+      <text id="User" transform="translate(60.97 42.312)" fill="#fff" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">User</tspan></text>
+      <g id="组_26" data-name="组 26" transform="translate(0 0)">
+        <ellipse id="oval_10" data-name="oval 10" cx="9.5" cy="10" rx="9.5" ry="10" transform="translate(9.47 -0.188)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+        <path id="路径_42" data-name="路径 42" d="M1827.316-19.926c-10.411.013-18.987,9.589-19,20a.932.932,0,0,0,1,1h35a.932.932,0,0,0,1-1C1845.3-10.336,1837.727-19.913,1827.316-19.926Z" transform="translate(-1807.846 51.737)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      </g>
+    </g>
+    <line id="直线_16" data-name="直线 16" y2="49" transform="translate(891.758 1501.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+    <g id="组_28" data-name="组 28" transform="translate(885.753 1634.019)">
+      <line id="直线_17" data-name="直线 17" y2="48" transform="translate(-0.496 -0.206)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="直线_18" data-name="直线 18" y2="48" transform="translate(12.504 -0.206)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="组_29" data-name="组 29" transform="translate(1162.177 1634.019)">
+      <line id="直线_19" data-name="直线 19" y2="48" transform="translate(-0.419 -0.206)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="直线_20" data-name="直线 20" y2="48" transform="translate(12.581 -0.206)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <line id="直线_21" data-name="直线 21" x2="228" y2="49" transform="translate(915.758 1501.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+    <line id="直线_22" data-name="直线 22" x1="228" y2="49" transform="translate(915.758 1501.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+    <line id="直线_23" data-name="直线 23" y2="49" transform="translate(1167.758 1501.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+    <line id="直线_24" data-name="直线 24" x2="68" transform="translate(1297.758 1459.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+    <line id="直线_25" data-name="直线 25" x2="68" transform="translate(1297.758 1592.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+    <line id="直线_26" data-name="直线 26" x2="68" transform="translate(1297.758 1725.313)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+    <g id="矩形_16" data-name="矩形 16" transform="translate(236.258 1519.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_17" data-name="矩形 17" transform="translate(236.258 1604.813)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="231" height="62" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="226" height="57" rx="7.5" fill="none"/>
+    </g>
+    <text id="Token_1-2" data-name="Token 1" transform="translate(351.258 1562.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-61.4" y="0">Token 1</tspan></text>
+    <text id="Token_2-2" data-name="Token 2" transform="translate(351.258 1647.813)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-61.4" y="0">Token 2</tspan></text>
+    <g id="组_33" data-name="组 33" transform="translate(1445.539 1552.128)">
+      <text id="AP1" transform="translate(28.719 25.685)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">AP1</tspan></text>
+      <g id="组_32" data-name="组 32" transform="translate(109.854 32.613) rotate(90)">
+        <path id="路径_38-2" data-name="路径 38" d="M17.165,109.854V0L0,12.587" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+        <path id="路径_39-2" data-name="路径 39" d="M0,0V108.71L16.02,97.267" transform="translate(32.041)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

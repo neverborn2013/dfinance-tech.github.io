@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="142" height="142" viewBox="0 0 142 142">
+  <defs>
+    <linearGradient id="linear-gradient" x2="0.971" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5a68d2"/>
+      <stop offset="1" stop-color="#b146d7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f89e36"/>
+      <stop offset="1" stop-color="#ffab4a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3dc4ed"/>
+      <stop offset="1" stop-color="#2976ba"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x2="0.5" y2="1" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e21f79"/>
+      <stop offset="1" stop-color="#a019ba"/>
+    </linearGradient>
+  </defs>
+  <g id="_3" data-name="3" transform="translate(-29 -29)">
+    <g id="组_21" data-name="组 21" transform="translate(-1307.324 -647.324)">
+      <rect id="矩形_8" data-name="矩形 8" width="142" height="142" transform="translate(1336.324 676.324)" fill="url(#linear-gradient)"/>
+      <rect id="矩形_5" data-name="矩形 5" width="54.745" height="34.892" transform="translate(1347.888 687.887)" fill="url(#linear-gradient-2)"/>
+      <rect id="矩形_6" data-name="矩形 6" width="51.785" height="54.018" transform="translate(1414.975 687.887)" fill="url(#linear-gradient-3)"/>
+      <rect id="矩形_7" data-name="矩形 7" width="54.745" height="71.637" transform="translate(1347.888 735.123)" fill="url(#linear-gradient-4)"/>
+      <circle id="oval_6" data-name="oval 6" cx="25.892" cy="25.892" r="25.892" transform="translate(1414.975 754.248)" fill="url(#linear-gradient-5)"/>
+    </g>
+    <g id="组_16" data-name="组 16" transform="translate(3412.85 3083.402)">
+      <rect id="矩形_1" data-name="矩形 1" width="55.264" height="35.223" transform="translate(-3372.849 -3043.402)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <rect id="矩形_2" data-name="矩形 2" width="52.276" height="54.53" transform="translate(-3305.125 -3043.402)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <rect id="矩形_3" data-name="矩形 3" width="55.264" height="72.317" transform="translate(-3372.849 -2995.718)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <circle id="oval_1" data-name="oval 1" cx="26.138" cy="26.138" r="26.138" transform="translate(-3305.125 -2976.411)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    </g>
+  </g>
+</svg>
