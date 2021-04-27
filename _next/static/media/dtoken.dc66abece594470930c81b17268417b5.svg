@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1202.5" height="279" viewBox="0 0 1202.5 279">
+  <g id="组_51" data-name="组 51" transform="translate(-8703.5 -597)">
+    <g id="组_49" data-name="组 49" transform="translate(8705.672 712.122)">
+      <text id="User" transform="translate(54.328 37.878)" fill="#fff" font-size="37" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">User</tspan></text>
+      <g id="组_26" data-name="组 26" transform="translate(0 0)">
+        <ellipse id="椭圆_10" data-name="椭圆 10" cx="8.5" cy="9" rx="8.5" ry="9" transform="translate(8.328 -0.122)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+        <path id="路径_42" data-name="路径 42" d="M1825.644-20.129c-9.462.011-16.988,8.538-17,18a1,1,0,0,0,1,1h31a.994.994,0,0,0,1-1C1841.632-11.591,1835.106-20.118,1825.644-20.129Z" transform="translate(-1808.316 49.008)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      </g>
+    </g>
+    <path id="路径_88" data-name="路径 88" d="M0,0V71L14,61" transform="translate(8863 743) rotate(-90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="路径_93" data-name="路径 93" d="M0,0V71L14,61" transform="translate(9164 743) rotate(-90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="路径_95" data-name="路径 95" d="M0,0V71L12.761,58.239" transform="translate(9534 743) rotate(-90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <g id="组_50" data-name="组 50" transform="translate(8949.846 705.111)">
+      <path id="路径_89" data-name="路径 89" d="M38.421,21.478l-.032-.161a11.7,11.7,0,0,0-4.216-5.993,9.146,9.146,0,0,0-5.534-2.066,2.351,2.351,0,0,0-.311,4.693,4.633,4.633,0,0,1,2.777.937l.027.023a7.417,7.417,0,0,1,2.667,3.47,43.271,43.271,0,0,1,.022,17.393l-.056.294c-.016.128-.033.251-.051.372v0q-1.173,7.77-11.673,6.2a9.215,9.215,0,0,1-6.385-3.606l-.132-.177.027.034h0q-.97-1.517-1.092-10.675V32.18c-.184-6.081.2-10.207,1.127-12.419.789-1.305,2.813-2.313,6.1-3.012l.081-.02h0l-.081.018a2.35,2.35,0,0,0-.973-4.6l-.074.018q-7.053,1.514-9.223,5.359l-.1.2Q9.444,21.978,9.756,32.306,9.9,42.78,11.587,45.426c.061.094.126.177.191.264a13.7,13.7,0,0,0,9.461,5.588l.061.011q15.189,2.289,17.065-10.146v0c.018-.128.036-.256.052-.385A48.233,48.233,0,0,0,38.421,21.478Z" transform="translate(0.046 8.135)" fill="#fff"/>
+      <path id="路径_90" data-name="路径 90" d="M21.158,23.609l.007-.1c.02-.376.031-.7.033-.973v-.013q.008-2.792-.079-3.534c-.009-.1-.025-.191-.042-.276a2.351,2.351,0,1,0-4.617.9h0c-.007-.034-.011-.061-.014-.087v.005q.054.463.049,2.976c0,.193-.009.439-.025.729-.1,1.038-.155,1.728-.161,2.039h0a2.627,2.627,0,0,0,.2,1.1,2.352,2.352,0,0,0,4.31-1.885h0a2.041,2.041,0,0,1,.19.858Q21.016,25.053,21.158,23.609Z" transform="translate(5.359 11.926)" fill="#fff"/>
+      <path id="路径_91" data-name="路径 91" d="M31.271,12.864a2.354,2.354,0,0,0-.144-3.324Q28.787,7.4,22.872,6.907L22.708,6.9a22.165,22.165,0,0,0-8.5,1.715,2.352,2.352,0,1,0,1.742,4.37h0A17.537,17.537,0,0,1,22.6,11.609a10.181,10.181,0,0,1,5.35,1.4A2.352,2.352,0,0,0,31.271,12.864Z" transform="translate(2.478 3.947)" fill="#fff"/>
+      <path id="路径_92" data-name="路径 92" d="M13.83,9.4l-.141.161a13.829,13.829,0,0,1,5.355-2.067l.078-.022a28.247,28.247,0,0,1,6.639-.758q7.215.636,9.99,3.488a2.351,2.351,0,0,0,3.382-3.268l0,0q-4.017-4.147-13.09-4.92L25.785,2a32.825,32.825,0,0,0-7.948.946A16.805,16.805,0,0,0,10.325,6.27h0A2.354,2.354,0,0,0,10.361,9.6h0a2.392,2.392,0,0,0,3.384-.1C13.776,9.461,13.8,9.43,13.83,9.4Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <text id="Interact" transform="translate(9010 750)" fill="#fff" font-size="37" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Interact</tspan></text>
+    <text id="Token_Registry" data-name="Token Registry" transform="translate(9261 750)" fill="#fff" font-size="37" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Token Registry</tspan></text>
+    <path id="路径_94" data-name="路径 94" d="M-229.057-326.057-215-312h-40a10,10,0,0,0-10,10v193a10,10,0,0,0,10,10h40l-14.186-14.186" transform="translate(9820 949)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <g id="矩形_33" data-name="矩形 33" transform="translate(9625 708)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="210" height="57" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="205" height="52" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_34" data-name="矩形 34" transform="translate(9625 597)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="210" height="57" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="205" height="52" rx="7.5" fill="none"/>
+    </g>
+    <g id="矩形_35" data-name="矩形 35" transform="translate(9625 819)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="210" height="57" rx="10" stroke="none"/>
+      <rect x="2.5" y="2.5" width="205" height="52" rx="7.5" fill="none"/>
+    </g>
+    <text id="Token_2" data-name="Token 2" transform="translate(9728 748)" fill="#fff" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="-56.284" y="0">Token 2</tspan></text>
+    <text id="Token_1" data-name="Token 1" transform="translate(9728 637)" fill="#fff" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="-56.284" y="0">Token 1</tspan></text>
+    <text id="Token_3" data-name="Token 3" transform="translate(9728 859)" fill="#fff" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="-56.284" y="0">Token 3</tspan></text>
+    <text id="_......" data-name="......" transform="translate(9884 749)" fill="#fff" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="-21.463" y="0">......</tspan></text>
+  </g>
+</svg>
